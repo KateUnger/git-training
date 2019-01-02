@@ -17,4 +17,4 @@ def calculateSPRs():
     for scout, spr in SPRs.items():
         if scout == 'Aakash':
             SPRs[scout] = spr*random.randint(1,5)
-        print(f'{scout} has an SPR of {SPRs[scout]}')
+        print(f'{scout} has an SPR of redacted')
